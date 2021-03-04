@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009260632612",
+    "firebase_url": "https://proyecto-tesis-27315.firebaseio.com",
+    "project_id": "proyecto-tesis-27315",
+    "storage_bucket": "proyecto-tesis-27315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009260632612:android:eae00095d1903ed5e896b1",
+        "android_client_info": {
+          "package_name": "com.maxidev.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009260632612-g29st55vbf8vjdrf0o3dtuaqrei7orgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4iubr_hIYSwpaszZjJYb3YkMxw7YSelQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009260632612-g29st55vbf8vjdrf0o3dtuaqrei7orgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

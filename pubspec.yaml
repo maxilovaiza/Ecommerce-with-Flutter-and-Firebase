@@ -1,0 +1,59 @@
+name: e_commerce
+description: a simple example of the ecommerce
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: "^0.8.0"
+
+
+
+
+  cupertino_icons: ^1.0.0
+  #Firebase
+  firebase_core: "0.5.2"
+  firebase_auth: "^0.18.1+2"
+  cloud_firestore: "^0.14.3"
+  #Google fonts
+  google_fonts: ^1.1.0
+  flutter_auth_buttons: ^0.9.0
+  flutter_svg: ^0.18.0
+  cached_network_image: ^2.3.3
+  provider: ^4.3.2+2
+  sqflite:
+  flutter_bloc: ^6.1.1
+  firebase_messaging: ^7.0.3
+  google_sign_in: ^4.5.6
+  shared_preferences: ^0.5.12+4
+  font_awesome_flutter: ^8.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/ic_logoapp.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/
+
+
+
+
